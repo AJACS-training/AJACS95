@@ -56,8 +56,6 @@ $ pigz SRR5058658.mini.fastq
 
 ## [BioJupies](https://maayanlab.cloud/biojupies/)
 
-
-
 ## 紹介論文
 
 Yasumizu, Yoshiaki, Naganari Ohkura, Hisashi Murata, Makoto Kinoshita, Soichiro Funaki, Satoshi Nojima, Kansuke Kido, et al. 2022. “Myasthenia Gravis-Specific Aberrant Neuromuscular Gene Expression by Medullary Thymic Epithelial Cells in Thymoma.” Nature Communications 13 (1): 4230. [https://doi.org/10.1038/s41467-022-31951-8](https://doi.org/10.1038/s41467-022-31951-8)
@@ -66,3 +64,4 @@ Yasumizu, Yoshiaki, Naganari Ohkura, Hisashi Murata, Makoto Kinoshita, Soichiro 
 
 - [nf-core RNAseq](https://nf-co.re/rnaseq/usage)
 - [VIRTUS2](https://github.com/yyoshiaki/VIRTUS2)
+- [ARCHS4](https://maayanlab.cloud/archs4/)
