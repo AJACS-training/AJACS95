@@ -6,6 +6,14 @@
 
 ## [AJACS 84 小野さん資料](https://github.com/AJACS-training/AJACS84/tree/main/01_ono)
 
+## この資料の使い方
+
+以下のコマンドでレポジトリをクローンできます。ブラウザから直接ダウンロードもできます。
+
+```
+git clone https://github.com/AJACS-training/AJACS95.git
+```
+
 ## [iDEP](http://bioinformatics.sdstate.edu/idep/)演習
 
 ### 使用するデータ
