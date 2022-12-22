@@ -4,6 +4,16 @@
 大阪大学 免疫学フロンティア研究センター 実験免疫学  
 大阪大学先導的学際研究機構生命医科学融合フロンティア研究部門
 
+## [AJACS 84 小野さん資料](https://github.com/AJACS-training/AJACS84/tree/main/01_ono)
+
+## この資料の使い方
+
+以下のコマンドでレポジトリをクローンできます。ブラウザから直接ダウンロードもできます。
+
+```
+git clone https://github.com/AJACS-training/AJACS95.git
+```
+
 ## [iDEP](http://bioinformatics.sdstate.edu/idep/)演習
 
 ### 使用するデータ
